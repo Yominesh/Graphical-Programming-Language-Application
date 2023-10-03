@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Assignment1</name>
+    </assembly>
+    <members>
+        <member name="T:Assignment1.Circle">
+            <summary>
+            This class will draw the circle by getting the values.
+            </summary>
+        </member>
+        <member name="M:Assignment1.Circle.DrawTo(System.Drawing.Graphics,System.Int32[])">
+            <summary>
+            it receives two parameters and then draws the circle in the panel
+            </summary>
+            <param name="g"></param>
+            <param name="values"></param>
+        </member>
+        <member name="T:Assignment1.CommandLineParser">
+            <summary>
+            checks the syntax and returns appropriate value
+            </summary>
+        </member>
+        <member name="F:Assignment1.CommandLineParser.variables">
+            <summary>
+            to add the defined variables 
+            </summary>
+        </member>
+        <member name="F:Assignment1.CommandLineParser.values">
+            <summary>
+            to add and check the corresponding values in the code 
+            </summary>
+        </member>
+        <member name="F:Assignment1.CommandLineParser.dic">
+            <summary>
+            FOR Storing the method body commands corresponding to the methodname
+            </summary>
+        </member>
+        <member name="M:Assignment1.CommandLineParser.CLIPass(System.String)">
+            <summary>
+            helps check the syntax of the lines of code
+            </summary>
+            <param name="linep"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Assignment1.Form1.#ctor">
+            <summary>
+            draws on panel1 using graphics
+            </summary>
+        </member>
+        <member name="F:Assignment1.Form1.a">
+            <summary>
+            int a and int b are for the moveto coordinates AND check_run checks if the code has been runned before saving
+            </summary>
+        </member>
+        <member name="F:Assignment1.Form1.g">
+            <summary>
+            to draw in panel
+            </summary>
+        </member>
+        <member name="M:Assignment1.Form1.saveToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            TO SAVE A FILE
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment1.Form1.loadToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            TO LOAD A FILE
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment1.Form1.exitToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            TO EXIT THE APPLICATION
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment1.Form1.aboutToolStripMenuItem_Click(System.Object,System.EventArgs)">
+            <summary>
+            INFO ABOUT THE APPLICATION
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment1.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            BUTTON THAT REFRESHES THE PANEL
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment1.Form1.button3_Click(System.Object,System.EventArgs)">
+            <summary>
+            BUTTON THAT EXECUTES THE COMMAND FROM BOTH TEXTBOXES
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment1.Form1.executeMethod(System.String)">
+            <summary>
+            executes the method_body Method
+            </summary>
+            <param name="commands"></param>
+        </member>
+        <member name="M:Assignment1.Form1.Pass(System.String,System.Int32)">
+            <summary>
+            Draws the given syntactically correct commands 
+            </summary>
+            <param name="linep"></param>
+            <param name="indexx"></param>
+        </member>
+        <member name="M:Assignment1.Form1.button2_Click(System.Object,System.EventArgs)">
+            <summary>
+            BUTTON THAT RESETS THE PEN POSITION
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:Assignment1.Form1.button4_Click(System.Object,System.EventArgs)">
+            <summary>
+            BUTTON THAT CLEARS THE MULTILINE TEXTBOX
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Assignment1.Form1.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:Assignment1.Form1.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:Assignment1.Form1.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:Assignment1.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:Assignment1.Shape">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Assignment1.Triangle">
+            <summary>
+            this class will draw the triangle by getting the values
+            </summary>
+        </member>
+        <member name="M:Assignment1.Triangle.DrawTo(System.Drawing.Graphics,System.Int32[])">
+            <summary>
+            it recieves two parameters and then draws the triangle in the panel
+            </summary>
+            <param name="g"></param>
+            <param name="values"></param>
+        </member>
+        <member name="T:Assignment1.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:Assignment1.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:Assignment1.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

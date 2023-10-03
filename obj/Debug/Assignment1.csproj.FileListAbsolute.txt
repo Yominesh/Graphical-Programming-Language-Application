@@ -1,0 +1,39 @@
+D:\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+D:\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+D:\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+D:\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\Assignment1\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\Assignment1\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+D:\Assignment1\component1\bin\Debug\Assignment1.exe.config
+D:\Assignment1\component1\obj\Debug\Assignment1.exe
+D:\Assignment1\component1\obj\Debug\Assignment1.pdb
+D:\Assignment1\component1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+D:\Assignment1\component1\obj\Debug\Assignment1.Form1.resources
+D:\Assignment1\component1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\Assignment1\component1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+D:\Assignment1\component1\bin\Debug\Assignment1.exe
+D:\Assignment1\component1\bin\Debug\Assignment1.pdb
+D:\Assignment1\component1\bin\Debug\Assignment1.XML
+D:\Desktop\New folder\component1\bin\Debug\Assignment1.exe.config
+D:\Desktop\New folder\component1\obj\Debug\Assignment1.exe
+D:\Desktop\New folder\component1\obj\Debug\Assignment1.pdb
+D:\Desktop\New folder\component1\bin\Debug\Assignment1.XML
+D:\Desktop\New folder\component1\bin\Debug\Assignment1.exe
+D:\Desktop\New folder\component1\bin\Debug\Assignment1.pdb
+D:\Desktop\New folder\component1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+D:\Desktop\New folder\component1\obj\Debug\Assignment1.Form1.resources
+D:\Desktop\New folder\component1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\Desktop\New folder\component1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
+D:\Desktop\ASE\New folder\component1\bin\Debug\Assignment1.exe.config
+D:\Desktop\ASE\New folder\component1\bin\Debug\Assignment1.XML
+D:\Desktop\ASE\New folder\component1\obj\Debug\Assignment1.exe
+D:\Desktop\ASE\New folder\component1\obj\Debug\Assignment1.pdb
+D:\Desktop\ASE\New folder\component1\bin\Debug\Assignment1.exe
+D:\Desktop\ASE\New folder\component1\bin\Debug\Assignment1.pdb
+D:\Desktop\ASE\New folder\component1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+D:\Desktop\ASE\New folder\component1\obj\Debug\Assignment1.Form1.resources
+D:\Desktop\ASE\New folder\component1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\Desktop\ASE\New folder\component1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
